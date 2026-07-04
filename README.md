@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.png" alt="Md. Suman Sarkar Banner" width="100%">
+  <img src="./cover.png" alt="Md. Suman Sarkar Banner" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Md. Suman Sarkar</h1>
@@ -121,17 +121,6 @@ Building scalable enterprise applications with modern web technologies and robus
 
 📈 MIS Dashboard
 
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=sumancse26&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumancse26&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
 
 ---
 
@@ -155,31 +144,12 @@ Building scalable enterprise applications with modern web technologies and robus
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sumancse26&theme=algolia&row=2&column=4&no-frame=true"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
 
 # 🌐 Connect With Me
 
 <p align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/suman-iu/">
 
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 

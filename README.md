@@ -1,8 +1,11 @@
-```markdown
+<p align="center">
+  <img src="./assets/banner.png" alt="Md. Suman Sarkar Banner" width="100%">
+</p>
+
 <h1 align="center">Hi 👋, I'm Md. Suman Sarkar</h1>
 
 <h3 align="center">
-Software Engineer | Full Stack Developer | ERP Solution Developer
+Software Engineer • Full Stack Developer • ERP Solution Developer
 </h3>
 
 <p align="center">
@@ -10,130 +13,133 @@ Building scalable enterprise applications with modern web technologies and robus
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=sumancse26&label=Profile%20Views&color=0e75b6&style=flat" />
-<img src="https://img.shields.io/github/followers/sumancse26?label=Followers&style=flat&logo=github" />
-<img src="https://img.shields.io/github/stars/sumancse26?affiliations=OWNER&style=flat&logo=github" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=Software+Engineer;Full+Stack+Developer;ERP+Solution+Developer;Laravel+%7C+Vue.js+%7C+React+%7C+Next.js;NestJS+%7C+Oracle+%7C+PostgreSQL;Always+Learning+New+Technologies" />
+
 </p>
 
 ---
-
-# 💫 About Me
-
-💼 Software Engineer passionate about designing scalable, secure, and maintainable software solutions.
-
-🚀 Experienced in developing Enterprise ERP systems, RESTful APIs, and modern web applications.
-
-🌱 Currently exploring
-
-- Cloud Computing
-- Docker
-- CI/CD
-- System Design
-- Software Architecture
-
-💬 Ask me about
-
-- JavaScript
-- TypeScript
-- React.js
-- Next.js
-- Vue.js
-- Nuxt.js
-- Laravel
-- NestJS
-- Oracle Database
-- PostgreSQL
-- MySQL
-
----
-
-# 🚀 Tech Stack
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxt,redux,typescript,javascript,html,css,tailwind,bootstrap" />
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,nestjs,express" />
-</p>
-
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
-</p>
-
-**Oracle Database • SQL • PL/SQL**
-
-### DevOps & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,vscode,figma" />
-</p>
-
----
-
-# 💼 Professional Expertise
-
-✔ Enterprise ERP Development
-
-✔ Full Stack Web Development
-
-✔ REST API Development
-
-✔ Oracle Database Development
-
-✔ Database Design & Optimization
-
-✔ Backend Architecture
-
-✔ Performance Optimization
-
-✔ Report Generation
-
-✔ Software Maintenance & Enhancement
-
----
-
-# 📌 Featured Domains
-
-- 👨‍💼 Human Resource Management (HRM)
-
-- 💰 Finance & Accounting
-
-- 📦 Material Management
-
-- 🏭 Production Planning
-
-- 📈 Reporting & Analytics
-
-- 🛒 Purchase & Sales Management
-
-- 📊 Dashboard & MIS Reporting
-
----
-
-# 📊 GitHub Statistics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sumancse26&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
+<img src="https://komarev.com/ghpvc/?username=sumancse26&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumancse26&layout=compact&theme=github_dark&hide_border=true"/>
+<img src="https://img.shields.io/github/followers/sumancse26?logo=github&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/stars/sumancse26?affiliations=OWNER&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/last-commit/sumancse26/sumancse26?style=for-the-badge"/>
 
 </p>
 
 ---
 
-# 🔥 Contribution Streak
+# 👨‍💻 About Me
+
+<img align="right" width="300" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+
+- 🚀 Software Engineer passionate about scalable software.
+- 💼 Enterprise ERP Developer.
+- 🌱 Currently learning Cloud, Docker & System Design.
+- 💬 Ask me about Laravel, React, Vue, Next.js, NestJS, Oracle & PostgreSQL.
+- ⚡ Love building enterprise software.
+- 📫 **suman.iu32@gmail.com**
+
+---
+
+# 💻 Tech Stack
+
+## Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxt,redux,ts,js,html,css,tailwind,bootstrap"/>
+
+</p>
+
+## Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,nestjs,express"/>
+
+</p>
+
+## Database
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb"/>
+
+</p>
+
+<p>
+
+<img src="https://img.shields.io/badge/Oracle-Database-red?style=for-the-badge&logo=oracle"/>
+
+<img src="https://img.shields.io/badge/PLSQL-Developer-red?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/SQL-Expert-blue?style=for-the-badge"/>
+
+</p>
+
+## DevOps & Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,vscode,figma"/>
+
+</p>
+
+---
+
+# 🎯 Professional Expertise
+
+| ✔ Expertise | ✔ Expertise |
+|------------|------------|
+| Enterprise ERP Development | REST API Development |
+| Full Stack Development | Backend Architecture |
+| Database Optimization | Oracle Database |
+| Performance Optimization | Report Generation |
+| Software Maintenance | System Integration |
+
+---
+
+# 🏢 ERP Domains
+
+🧑‍💼 Human Resource Management
+
+💰 Finance & Accounting
+
+📦 Material Management
+
+🏭 Production Planning
+
+🛒 Purchase & Sales
+
+📊 Reporting & Analytics
+
+📈 MIS Dashboard
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=sumancse26&theme=github-dark&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=sumancse26&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumancse26&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=sumancse26&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -143,7 +149,7 @@ Building scalable enterprise applications with modern web technologies and robus
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sumancse26&theme=github-compact"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sumancse26&theme=tokyo-night"/>
 
 </p>
 
@@ -153,35 +159,56 @@ Building scalable enterprise applications with modern web technologies and robus
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=sumancse26&theme=algolia&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=sumancse26&theme=algolia&row=2&column=4&no-frame=true"/>
 
 </p>
 
 ---
 
-# 🤝 Connect With Me
+# 🐍 Contribution Snake
 
-<p align="left">
+<p align="center">
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+
 </a>
 
 <a href="mailto:suman.iu32@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
+
+<img src="https://skillicons.dev/icons?i=gmail"/>
+
 </a>
 
 </p>
 
 ---
 
-# 💭 Favorite Quote
+# 💡 Quote
 
-> **"Code with purpose. Build with quality. Never stop learning."**
+<p align="center">
+
+> **Code with purpose. Build with quality. Never stop learning.**
+
+</p>
 
 ---
 
 <p align="center">
-⭐ If you like my work, consider following me and exploring my repositories.
+
+### ⭐ Thanks for visiting my profile!
+
+If you like my work, don't forget to ⭐ my repositories and follow me.
+
 </p>
-```
